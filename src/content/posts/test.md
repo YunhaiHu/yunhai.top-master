@@ -15,6 +15,7 @@ series:
 ## 我的精神家园
 [时歌](https://www.lapis.cafe/)
 ![未尽之花](../../assets/img/covers/weijin-zhi-hua.jpg)
+![未尽之花](../../assets/img/daily/DSC_0795.26m4y0n6te.webp)
 
 > 文字是用来读，用来听，不是用来看的。要看不如去看小人书。不懂这一点，就只能写出充满噪声的文字垃圾。思想、语言、文字，是一体的，假如念起来乱糟糟，意思也不会好。
 
