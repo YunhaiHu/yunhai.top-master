@@ -43,7 +43,7 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Friends,
     {
       name: 'GitHub',
-      url: 'https://github.com/MrXnneHang',
+      url: 'https://github.com/YunhaiHu',
       external: true,
     },
   ],
@@ -57,12 +57,12 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: 'https://github.com/MrXnneHang',
+      url: 'https://github.com/YunhaiHu',
     },
     {
       name: 'RSS',
       icon: 'fa6-solid:rss',
-      url: 'https://xnnehang.top/rss.xml',
+      url: 'https://yunhai.site/rss.xml',
     },
   ],
 }
