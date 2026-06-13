@@ -29,8 +29,8 @@ import { remarkWikiLinks } from './src/plugins/remark-wikilinks.mjs'
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://YunhaiHu.github.io',
-  base: '/yunhai.top-master',
+  site: 'https://yunhai.site',
+  base: '/',
   trailingSlash: 'always',
   integrations: [
     swup({
