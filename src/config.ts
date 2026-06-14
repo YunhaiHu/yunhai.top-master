@@ -8,8 +8,8 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'XnneHang',
-  subtitle: '写代码是因为爱。',
+  title: 'Yunhai',
+  subtitle: '人生旅途拾忆与思考。',
   lang: 'zh_CN',
   themeColor: {
     hue: 210,
@@ -29,8 +29,7 @@ export const siteConfig: SiteConfig = {
     enable: true,
     depth: 2,
   },
-  favicon: [
-  ],
+  favicon: [],
 }
 
 export const navBarConfig: NavBarConfig = {
@@ -51,8 +50,8 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
   avatar: '/avatar.jpg',
-  name: 'XnneHang',
-  bio: '写代码是因为爱。',
+  name: 'yunhai',
+  bio: '他日北寒仙界会，一声道友尽沧桑。',
   links: [
     {
       name: 'GitHub',
