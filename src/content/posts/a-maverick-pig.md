@@ -13,8 +13,7 @@ series:
 ---
 
 ## 我的精神家园
-![未尽之花](../../assets/img/daily/04.86u5p83wqj.jpg)
-![虞美人草](../../assets/img/yume-caohou/202407172303464.jpeg)
+
 ![image](https://github.com/YunhaiHu/picx-images-hosting/raw/master/daily/04.86u5p83wqj.jpg)
 
 
