@@ -15,6 +15,8 @@ series:
 ## 我的精神家园
 ![未尽之花](../../assets/img/daily/04.86u5p83wqj.jpg)
 ![虞美人草](../../assets/img/yume-caohou/202407172303464.jpeg)
+![image](https://github.com/YunhaiHu/picx-images-hosting/raw/master/daily/04.86u5p83wqj.jpg)
+
 
 > 文字是用来读，用来听，不是用来看的。要看不如去看小人书。不懂这一点，就只能写出充满噪声的文字垃圾。思想、语言、文字，是一体的，假如念起来乱糟糟，意思也不会好。
 
