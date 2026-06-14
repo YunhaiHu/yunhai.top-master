@@ -13,6 +13,8 @@ series:
 ---
 
 ## 我的精神家园
+img
+![虞美人草](../../assets/img/daily/04.86u5p83wqj.jpg)
 
 ![image](https://github.com/YunhaiHu/picx-images-hosting/raw/master/daily/04.86u5p83wqj.jpg)
 
