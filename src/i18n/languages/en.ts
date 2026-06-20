@@ -52,6 +52,7 @@ export const en: Translation = {
   [Key.noWikiLinks]: 'No wiki links',
 
   [Key.shelf]: 'Shelf',
+  [Key.memo]: 'Murmurs',
 
   [Key.seriesNav]: 'Series',
 }

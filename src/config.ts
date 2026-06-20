@@ -40,6 +40,7 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Graph,
     LinkPreset.About,
     LinkPreset.Friends,
+    LinkPreset.Memo,
     {
       name: 'GitHub',
       url: 'https://github.com/YunhaiHu',
