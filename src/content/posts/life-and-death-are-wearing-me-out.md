@@ -1,27 +1,16 @@
 ---
-
 title: 佛眼低垂处，生死皆疲劳
-
 published: 2026-06-21
-
 shelf: '书籍'
-
-subCategory: ['小说']
-
+subCategory:
+  - 小说
 category: 观后
-
 tags:
-
-  - 读书
-
-  - 莫言
-
+  - 读书
+  - 莫言
 description: 莫言《生死疲劳》阅读手记
-
 series:
-
-  - 阅读
-
+  - 阅读
 ---
 
 ## 我的精神家园
