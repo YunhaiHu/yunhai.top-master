@@ -12,11 +12,10 @@ description: 莫言《生死疲劳》阅读手记
 series:
   - 阅读
 ---
-
 ## 我的精神家园
 
-<!-- ![虞美人草](../../assets/img/daily/DSC_1046.67y4o4mr0t.webp)
--->
+![虞美人草](../../assets/img/daily/DSC_1046.67y4o4mr0t.webp)
+
 
 ## 小说大概内容
 
